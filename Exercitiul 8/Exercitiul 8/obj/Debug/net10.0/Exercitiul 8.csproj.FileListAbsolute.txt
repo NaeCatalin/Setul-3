@@ -1,0 +1,14 @@
+C:\de astea instalate\Visual studio\Exercitiul 8\Exercitiul 8\bin\Debug\net10.0\Exercitiul 8.exe
+C:\de astea instalate\Visual studio\Exercitiul 8\Exercitiul 8\bin\Debug\net10.0\Exercitiul 8.deps.json
+C:\de astea instalate\Visual studio\Exercitiul 8\Exercitiul 8\bin\Debug\net10.0\Exercitiul 8.runtimeconfig.json
+C:\de astea instalate\Visual studio\Exercitiul 8\Exercitiul 8\bin\Debug\net10.0\Exercitiul 8.dll
+C:\de astea instalate\Visual studio\Exercitiul 8\Exercitiul 8\bin\Debug\net10.0\Exercitiul 8.pdb
+C:\de astea instalate\Visual studio\Exercitiul 8\Exercitiul 8\obj\Debug\net10.0\Exercitiul 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\de astea instalate\Visual studio\Exercitiul 8\Exercitiul 8\obj\Debug\net10.0\Exercitiul 8.AssemblyInfoInputs.cache
+C:\de astea instalate\Visual studio\Exercitiul 8\Exercitiul 8\obj\Debug\net10.0\Exercitiul 8.AssemblyInfo.cs
+C:\de astea instalate\Visual studio\Exercitiul 8\Exercitiul 8\obj\Debug\net10.0\Exercitiul 8.csproj.CoreCompileInputs.cache
+C:\de astea instalate\Visual studio\Exercitiul 8\Exercitiul 8\obj\Debug\net10.0\Exercitiul 8.dll
+C:\de astea instalate\Visual studio\Exercitiul 8\Exercitiul 8\obj\Debug\net10.0\refint\Exercitiul 8.dll
+C:\de astea instalate\Visual studio\Exercitiul 8\Exercitiul 8\obj\Debug\net10.0\Exercitiul 8.pdb
+C:\de astea instalate\Visual studio\Exercitiul 8\Exercitiul 8\obj\Debug\net10.0\Exercitiul 8.genruntimeconfig.cache
+C:\de astea instalate\Visual studio\Exercitiul 8\Exercitiul 8\obj\Debug\net10.0\ref\Exercitiul 8.dll

@@ -1,0 +1,4 @@
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\obj\Debug\net10.0\Exercitiul 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\obj\Debug\net10.0\Exercitiul 3.AssemblyInfoInputs.cache
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\obj\Debug\net10.0\Exercitiul 3.AssemblyInfo.cs
+C:\de astea instalate\Visual studio\Exercitiul 3\Exercitiul 3\obj\Debug\net10.0\Exercitiul 3.csproj.CoreCompileInputs.cache

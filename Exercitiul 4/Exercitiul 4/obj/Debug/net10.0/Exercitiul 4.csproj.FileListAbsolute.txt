@@ -1,0 +1,14 @@
+C:\de astea instalate\Visual studio\Exercitiul 4\Exercitiul 4\bin\Debug\net10.0\Exercitiul 4.exe
+C:\de astea instalate\Visual studio\Exercitiul 4\Exercitiul 4\bin\Debug\net10.0\Exercitiul 4.deps.json
+C:\de astea instalate\Visual studio\Exercitiul 4\Exercitiul 4\bin\Debug\net10.0\Exercitiul 4.runtimeconfig.json
+C:\de astea instalate\Visual studio\Exercitiul 4\Exercitiul 4\bin\Debug\net10.0\Exercitiul 4.dll
+C:\de astea instalate\Visual studio\Exercitiul 4\Exercitiul 4\bin\Debug\net10.0\Exercitiul 4.pdb
+C:\de astea instalate\Visual studio\Exercitiul 4\Exercitiul 4\obj\Debug\net10.0\Exercitiul 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\de astea instalate\Visual studio\Exercitiul 4\Exercitiul 4\obj\Debug\net10.0\Exercitiul 4.AssemblyInfoInputs.cache
+C:\de astea instalate\Visual studio\Exercitiul 4\Exercitiul 4\obj\Debug\net10.0\Exercitiul 4.AssemblyInfo.cs
+C:\de astea instalate\Visual studio\Exercitiul 4\Exercitiul 4\obj\Debug\net10.0\Exercitiul 4.csproj.CoreCompileInputs.cache
+C:\de astea instalate\Visual studio\Exercitiul 4\Exercitiul 4\obj\Debug\net10.0\Exercitiul 4.dll
+C:\de astea instalate\Visual studio\Exercitiul 4\Exercitiul 4\obj\Debug\net10.0\refint\Exercitiul 4.dll
+C:\de astea instalate\Visual studio\Exercitiul 4\Exercitiul 4\obj\Debug\net10.0\Exercitiul 4.pdb
+C:\de astea instalate\Visual studio\Exercitiul 4\Exercitiul 4\obj\Debug\net10.0\Exercitiul 4.genruntimeconfig.cache
+C:\de astea instalate\Visual studio\Exercitiul 4\Exercitiul 4\obj\Debug\net10.0\ref\Exercitiul 4.dll
